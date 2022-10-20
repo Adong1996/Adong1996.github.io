@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Akara Blog</title>
+        <title>CDong Blog</title>
         <link>https://adong1996.github.io/blog</link>
-        <description>Akara Blog</description>
+        <description>CDong Blog</description>
         <lastBuildDate>Mon, 02 May 2022 17:52:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
